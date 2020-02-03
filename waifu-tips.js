@@ -1,6 +1,6 @@
 /*
  * Live2D Widget
- * https://github.com/longhz/live2d-widget
+ * https://github.com/longhz/live2d-widget 
  */
 
 function loadWidget(waifuPath, apiPath) {
